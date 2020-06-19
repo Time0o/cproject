@@ -1,0 +1,7 @@
+Makefile
+
+dep/*deps.d
+!dep/.gitignore
+
+obj/*
+!obj/.gitignore
